@@ -1,0 +1,28 @@
+/* NavBar.css */
+
+.custom-navbar {
+    background-color: #343a40;
+    padding: 1px; /* Add padding to the Navbar */
+}
+
+.navbar-link {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 16px; /* Decrease the font size */
+    margin-right: 20px; /* Add space between navigation links */
+    transition: color 0.3s ease-in-out;
+    text-decoration: none;
+}
+
+.navbar-link:hover {
+    color: #8445fa;
+    font-weight: bold;
+}
+
+/* Adjust the Navbar height */
+@media (min-width: 576px) {
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-top: 8px; /* Adjust the top padding */
+        padding-bottom: 8px; /* Adjust the bottom padding */
+    }
+}

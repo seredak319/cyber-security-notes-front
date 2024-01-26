@@ -1,0 +1,79 @@
+.private-note-container {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.private-note {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height: 300px;
+}
+
+.private-note h3 {
+    text-align: center;
+    color: #333;
+}
+
+.private-note p {
+    color: #555;
+}
+
+.private-note-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.private-note-form label {
+    margin-bottom: 5px;
+}
+
+.private-note-form input,
+.private-note-form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.private-note-form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.private-note-form button:hover {
+    background-color: #45a049;
+}
+
+.error-message {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.markdown-preview img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.markdown-content {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    min-height: 150px;
+    min-width: 200px;
+}
+
+.markdown-content img {
+    max-width: 70px;
+    max-height: 70px;
+}
