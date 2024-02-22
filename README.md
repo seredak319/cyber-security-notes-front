@@ -38,6 +38,10 @@ Frontend is designed to be compatible with modern web browsers, including the la
 ![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/745ab78b-f801-40c8-b9d7-f2d6c434fa20)
 
 ### Public Notes
-
 ![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/d54bf134-0997-4584-b0ce-27858563600b)
+
+### My Notes - create
+![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/a0dbd909-bd84-49a9-91b5-b4683414dcb9)
+
+
 
