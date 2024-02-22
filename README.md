@@ -26,3 +26,18 @@ To streamline deployment and ensure consistency across environments, our fronten
 Frontend is designed to be compatible with modern web browsers, including the latest versions of Chrome, Firefox, and Safari.
 
 ## Preview
+### Home Page
+![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/86dd0535-92bd-463d-a084-d67a094d4aa0)
+
+### Login Page
+![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/98eca204-86b1-4374-8388-c185334089d8)
+
+### Register Page
+![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/f5d03a60-7e1c-46e2-9c91-6028fb8197db)
+
+![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/745ab78b-f801-40c8-b9d7-f2d6c434fa20)
+
+### Public Notes
+
+![image](https://github.com/seredak319/cyber-security-notes-front/assets/95620581/d54bf134-0997-4584-b0ce-27858563600b)
+
